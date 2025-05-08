@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="HandSock.feature.basic" target="21" />
+      <module name="HandSock.feature.charts" target="21" />
+      <module name="HandSock.feature.feedback" target="21" />
+      <module name="HandSock.feature.form" target="21" />
+      <module name="HandSock.feature.hardware" target="21" />
+      <module name="HandSock.feature.location" target="21" />
+      <module name="HandSock.feature.media" target="21" />
+      <module name="HandSock.feature.network" target="21" />
+      <module name="HandSock.feature.qrcode" target="21" />
+      <module name="HandSock.feature.samples" target="21" />
+      <module name="HandSock.feature.samples.file-browser" target="21" />
+      <module name="HandSock.feature.samples.paint" target="21" />
+      <module name="HandSock.feature.samples.video-channel" target="21" />
+      <module name="HandSock.feature.system" target="21" />
+      <module name="WeUI.app" target="21" />
+      <module name="WeUI.core.data.model" target="21" />
+      <module name="WeUI.core.data.repository" target="21" />
+      <module name="WeUI.core.ui.components" target="21" />
+      <module name="WeUI.core.ui.theme" target="21" />
+      <module name="WeUI.core.utils" target="21" />
+      <module name="WeUI.feature.basic" target="21" />
+      <module name="WeUI.feature.charts" target="21" />
+      <module name="WeUI.feature.feedback" target="21" />
+      <module name="WeUI.feature.form" target="21" />
+      <module name="WeUI.feature.hardware" target="21" />
+      <module name="WeUI.feature.location" target="21" />
+      <module name="WeUI.feature.login" target="11" />
+      <module name="WeUI.feature.login.main" target="11" />
+      <module name="WeUI.feature.login.test" target="11" />
+      <module name="WeUI.feature.media" target="21" />
+      <module name="WeUI.feature.network" target="21" />
+      <module name="WeUI.feature.qrcode" target="21" />
+      <module name="WeUI.feature.samples" target="21" />
+      <module name="WeUI.feature.samples.file-browser" target="21" />
+      <module name="WeUI.feature.samples.paint" target="21" />
+      <module name="WeUI.feature.samples.video-channel" target="21" />
+      <module name="WeUI.feature.system" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

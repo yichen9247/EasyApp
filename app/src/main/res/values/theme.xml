@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HandSock" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="postSplashScreenTheme">@style/Theme.HandSock</item>
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+    </style>
+
+    <style name="SplashAppTheme" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

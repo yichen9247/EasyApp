@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotChatHistory">
+    <option name="conversations">
+      <list>
+        <Conversation>
+          <option name="createTime" value="1746662274849" />
+          <option name="id" value="0196ad2f372171bf965ca265cae4b5fc" />
+          <option name="title" value="新对话 2025年5月08日 07:57:54" />
+          <option name="updateTime" value="1746662274849" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1746575039370" />
+          <option name="id" value="0196a7fc1b8a77ecb8f10bf3ce99b007" />
+          <option name="title" value="新对话 2025年5月07日 07:43:59" />
+          <option name="updateTime" value="1746575039370" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1746492091019" />
+          <option name="id" value="0196a30a6a8a7841a560ffa8eda24719" />
+          <option name="title" value="新对话 2025年5月06日 08:41:31" />
+          <option name="updateTime" value="1746492091019" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1746431598129" />
+          <option name="id" value="01969f6f5e317fe7a4b9e1bd8cdacf87" />
+          <option name="title" value="新对话 2025年5月05日 15:53:18" />
+          <option name="updateTime" value="1746431598129" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1746430765534" />
+          <option name="id" value="01969f62a9de7481b69ee5ec88692802" />
+          <option name="title" value="新对话 2025年5月05日 15:39:25" />
+          <option name="updateTime" value="1746430765534" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1746408794234" />
+          <option name="id" value="01969e13687a70389e85e9ad135d099c" />
+          <option name="title" value="新对话 2025年5月05日 09:33:14" />
+          <option name="updateTime" value="1746408794234" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1745895780439" />
+          <option name="id" value="01967f7f705772d78ec688e6d02fb7be" />
+          <option name="title" value="新对话 2025年4月29日 11:03:00" />
+          <option name="updateTime" value="1745895780439" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1745799767094" />
+          <option name="id" value="019679c664367e7daa896fd4db16b9be" />
+          <option name="title" value="新对话 2025年4月28日 08:22:47" />
+          <option name="updateTime" value="1745799767094" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1741134376431" />
+          <option name="id" value="019563b22def77fbb9b5f196bdc8971a" />
+          <option name="title" value="新对话 2025年3月05日 08:26:16" />
+          <option name="updateTime" value="1741134376431" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1741091582679" />
+          <option name="id" value="0195612532d773a09c44036f4527f204" />
+          <option name="title" value="新对话 2025年3月04日 20:33:02" />
+          <option name="updateTime" value="1741091582679" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1741054782431" />
+          <option name="id" value="01955ef3abdf76f6a75512a1fa5bcb2e" />
+          <option name="title" value="新对话 2025年3月04日 10:19:42" />
+          <option name="updateTime" value="1741054782431" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1741048082060" />
+          <option name="id" value="01955e8d6e8c753886966785d81fc448" />
+          <option name="title" value="@workspace /cr " />
+          <option name="turns">
+            <list>
+              <Turn>
+                <option name="agent" value="workspace" />
+                <option name="answer" value="[&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/fhvirmul/FhviRmul.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 666,&#10;    &quot;vmwOrmv&quot;: 666,&#10;    &quot;ovevo&quot;: 7,&#10;    &quot;nvhhztv&quot;: &quot;在`lmHfynrg`回调中，使用了`xlilfgrmvHxlkv().ozfmxs`，但未处理可能的异常情况。建议添加异常捕获机制，以确保在更新昵称失败时能够给出适当的提示或处理。&quot;&#10;  },&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/fhvirmul/FhviRmul.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 645,&#10;    &quot;vmwOrmv&quot;: 645,&#10;    &quot;ovevo&quot;: 7,&#10;    &quot;nvhhztv&quot;: &quot;在`修改账号`的`RmkfgKlkfk`的`lmHfynrg`回调中，没有实现任何逻辑。建议添加更新账号的逻辑，并处理可能的异常情况。&quot;&#10;  },&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/fhvirmul/FhviRmul.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 626,&#10;    &quot;vmwOrmv&quot;: 626,&#10;    &quot;ovevo&quot;: 7,&#10;    &quot;nvhhztv&quot;: &quot;在`修改密码`的`RmkfgKlkfk`的`lmHfynrg`回调中，没有实现任何逻辑。建议添加更新密码的逻辑，并处理可能的异常情况。&quot;&#10;  },&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/fhvirmul/FhviRmul.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 608,&#10;    &quot;vmwOrmv&quot;: 602,&#10;    &quot;ovevo&quot;: 7,&#10;    &quot;nvhhztv&quot;: &quot;在`ZwnrmZxgrlm`中使用了`TolyzoHxlkv.ozfmxs`，这可能会导致内存泄漏。建议使用`ivnvnyviXlilfgrmvHxlkv`来获取协程作用域，以确保在组件销毁时取消协程。&quot;&#10;  }&#10;]" />
+                <option name="chatResource" value="codeAction" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="kzxpztv xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul&#10;&#10;rnklig zmwilrw.zmmlgzgrlm.HfkkivhhOrmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.Rnztv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yzxptilfmw&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yliwvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.xorxpzyov&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ziizmtvnvmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ylc&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Xlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ild&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Hkzxvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.zyhlofgvLuuhvg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcHrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcDrwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.svrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.kzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.hrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozab.OzabXlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.hszkv.IlfmwvwXlimviHszkv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.NzgvirzoGsvnv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Hxzuulow&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Gvcg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.Xlnklhzyov&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.WrhklhzyovVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.OzfmxsvwVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.tvgEzofv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.nfgzyovHgzgvLu&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyvi&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyviXlilfgrmvHxlkv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.hvgEzofv&#10;rnklig zmwilrwc.xlnklhv.fr.Zortmnvmg&#10;rnklig zmwilrwc.xlnklhv.fr.Nlwrurvi&#10;rnklig zmwilrwc.xlnklhv.fr.wizd.xork&#10;rnklig zmwilrwc.xlnklhv.fr.tizksrxh.Xloli&#10;rnklig zmwilrwc.xlnklhv.fr.ozblfg.XlmgvmgHxzov&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.xloliIvhlfixv&#10;rnklig xln.zmwilrw.szmwhlxp.I&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.kzrmgviIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.wk&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.hk&#10;rnklig zmwilrwc.oruvxbxov.ervdnlwvo.xlnklhv.ervdNlwvo&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.WvuzfogOlzwKztv&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.RmkfgKlkfk&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HjfzivZhbmxRnztv&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HfyKztvGlloyzi&#10;rnklig xln.zmwilrw.szmwhlxp.vmfnh.RmkfgGbkv&#10;rnklig xln.zmwilrw.szmwhlxp.ivjfvhg.nlwvo.FkolzwErvdNlwvo&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.tvgFhviRmul&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviZezgzi&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviMrxp&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviGzyllHgzgfh&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.hgzgv.FhviRmulHgzgv&#10;rnklig xln.zmwilrw.szmwhlxp.hgzgv.TolyzoHgzgv&#10;rnklig xln.zmwilrw.szmwhlxp.fgroh.SzmwFgroh&#10;rnklig xln.zmwilrw.szmwhlxp.fgroh.IlfgvFgroh&#10;rnklig plgormc.xlilfgrmvh.WvorxzgvXlilfgrmvhZkr&#10;rnklig plgormc.xlilfgrmvh.TolyzoHxlkv&#10;rnklig plgormc.xlilfgrmvh.xlilfgrmvHxlkv&#10;rnklig plgormc.xlilfgrmvh.wvozb&#10;rnklig plgormc.xlilfgrmvh.ozfmxs&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.wzgz.nlwvo.ErhfzoNvwrzGbkv&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.zxgrlmhsvvg.ZxgrlmHsvvgRgvn&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.zxgrlmhsvvg.ivnvnyviZxgrlmHsvvgHgzgv&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.xziworhg.DvXziwOrhgRgvn&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.nvwrzkrxpvi.ivnvnyviKrxpNvwrzhOzfmxsvi&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.glzhg.GlzhgRxlm&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.glzhg.ivnvnyviGlzhgHgzgv&#10;&#10;@Xlnklhzyov&#10;ufm FhviRmulHxivvm() {&#10;    ezo xfiivmgFhvi = TolyzoHgzgv.fhviRmul.ezofv&#10;    ezo olzwrmt = ivnvnyvi { nfgzyovHgzgvLu(gifv) }&#10;    ezo gzitvghFfrw: Olmt? = TolyzoHgzgv.mzeXlmgiloovi.ezofv?.xfiivmgYzxpHgzxpVmgib?.zitfnvmgh?.tvgHgirmt(&quot;frw&quot;)?.glOlmt()&#10;&#10;    Hxzuulow(&#10;        glkYzi = {&#10;            HfyKztvGlloyzi(&#10;                mznv = &quot;用户主页&quot;&#10;            )&#10;        }&#10;    ) { kzwwrmtEzofvh -&gt;&#10;        dsvm {&#10;            olzwrmt.ezofv -&gt; WvuzfogOlzwKztv(kzwwrmtEzofvh)&#10;            vohv -&gt; Ylc(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcHrav()&#10;                    .kzwwrmt(kzwwrmtEzofvh)&#10;                    .yzxptilfmw(NzgvirzoGsvnv.xloliHxsvnv.yzxptilfmw)&#10;            ) {&#10;                OzabXlofnm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .urooNzcDrwgs()&#10;                        .kzwwrmt(84.wk, 2.4.wk)&#10;                ) {&#10;                    rgvn { FhviKslglYlc() }&#10;                    rgvn { FhviRmulWvgzro() }&#10;                    ru (gzitvghFfrw == xfiivmgFhvi?.frw) rgvn { FhviZxgrlm() }&#10;                    ru (xfiivmgFhvi?.rhZwnrm == 8 &amp;&amp; gzitvghFfrw != xfiivmgFhvi.frw) rgvn { ZwnrmZxgrlm() }&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    OzfmxsvwVuuvxg(Fmrg) {&#10;        ozfmxs {&#10;            olzwrmt.ezofv = gifv&#10;            tvgFhviRmul(gzitvghFfrw?.glOlmt() ?: 9)&#10;            wvozb(799)&#10;            olzwrmt.ezofv = uzohv&#10;        }&#10;    }&#10;&#10;    WrhklhzyovVuuvxg(Fmrg) {&#10;        lmWrhklhv {&#10;            FhviRmulHgzgv.hvgFhviRmul(mfoo)&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;@HfkkivhhOrmg(&quot;FmivnvnyvivwNfgzyovHgzgv&quot;)&#10;kirezgv ufm FhviKslglYlc(fkolzwErvdNlwvo: FkolzwErvdNlwvo = ervdNlwvo()) {&#10;    ezo glzhgHgzgv = ivnvnyviGlzhgHgzgv()&#10;    ezo fhvi = FhviRmulHgzgv.fhvirmul.ezofv&#10;    ezo rhZwnrm = fhvi?.rhZwnrm == 8 // 是否管理员&#10;    ezo rhIlylg = fhvi?.rhIlylg == 8 // 是否机器人&#10;    ezo xlilfgrmvHxlkv = ivnvnyviXlilfgrmvHxlkv()&#10;    ezo xfiivmgFhvi = TolyzoHgzgv.fhviRmul.ezofv&#10;&#10;    ezo fkolzwZezgzi = ivnvnyviKrxpNvwrzhOzfmxsvi {&#10;        xlilfgrmvHxlkv.ozfmxs {&#10;            fkolzwErvdNlwvo.fkolzwUrov(&#10;                fir = rg.urihg().fir,&#10;                gbkv = &quot;zezgzi&quot;&#10;            )?.ovg { ivhklmhv -&gt;&#10;                fkwzgvFhviZezgzi(kzgs = ivhklmhv.wzgz?.kzgs ?: &quot;&quot;)&#10;            } ?: glzhgHgzgv.hsld(&quot;上传失败&quot;, GlzhgRxlm.UZRO)&#10;        }&#10;    }&#10;&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc (&#10;        nlwrurvi = Nlwrurvi&#10;            .svrtsg(884.wk)&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;            .xork(IlfmwvwXlimviHszkv(5.wk))&#10;    ) {&#10;        Rnztv(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav(),&#10;            xlmgvmgWvhxirkgrlm = &quot;用户背景&quot;,&#10;            xlmgvmgHxzov = XlmgvmgHxzov.UrooDrwgs,&#10;            kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.fhvi_yt)&#10;        )&#10;&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav()&#10;                .zyhlofgvLuuhvg(c = 9.wk, b = 9.wk),&#10;            evigrxzoZiizmtvnvmg = Ziizmtvnvmg.Xvmgvi&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs()&#10;                    .kzwwrmt(84.wk, 9.wk),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .hrav(24.wk)&#10;                        .yliwvi(&#10;                            drwgs = 4.wk,&#10;                            xloli = Xloli(9CUUUUUUUU),&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                        ),&#10;                ) {&#10;                    Ylc(&#10;                        nlwrurvi = Nlwrurvi&#10;                            .xorxpzyov(&#10;                                lmXorxp = {&#10;                                    ru (xfiivmgFhvi?.frw == fhvi?.frw) {&#10;                                        fkolzwZezgzi(ErhfzoNvwrzGbkv.RNZTV, 8)&#10;                                    }&#10;                                }&#10;                            )&#10;                    ) {&#10;                        HjfzivZhbmxRnztv(&#10;                            hrav = 24.wk,&#10;                            nlwvo = SzmwFgroh.tvgFhviZezgzi(fhvi?.zezgzi.glHgirmt())&#10;                        )&#10;                    }&#10;                    ru (rhZwnrm || rhIlylg)&#10;                        Ylc (&#10;                            nlwrurvi = Nlwrurvi&#10;                                .urooNzcHrav()&#10;                                .xork(IlfmwvwXlimviHszkv(5.wk))&#10;                                .zyhlofgvLuuhvg(c = 9.wk, b = 9.wk),&#10;                            xlmgvmgZortmnvmg = Zortmnvmg.YlgglnVmw&#10;                        ) {&#10;                            Ylc (&#10;                                nlwrurvi = Nlwrurvi&#10;                                    .svrtsg(73.wk)&#10;                                    .urooNzcDrwgs()&#10;                                    .kzwwrmt(9.wk, 9.wk, 9.wk, 4.wk)&#10;                                    .yzxptilfmw(xloli = ru (rhZwnrm) Xloli(4, 839, 849, 813) vohv Xloli(878, 812, 744, 813)),&#10;                                xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;                            ) {&#10;                                Gvcg(&#10;                                    ulmgHrav = 87.hk,&#10;                                    xloli = Xloli(9CUUUUUUUU),&#10;                                    gvcg = ru (rhZwnrm) &quot;管理员&quot; vohv &quot;机器人&quot;,&#10;                                    hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                                )&#10;                            }&#10;                        }&#10;                }&#10;&#10;                Xlofnm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(24.wk)&#10;                        .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk),&#10;                    evigrxzoZiizmtvnvmg = Ziizmtvnvmg.HkzxvYvgdvvm&#10;                ) {&#10;                    Gvcg(&#10;                        ulmgHrav = 81.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        gvcg = fhvi?.mrxp.glHgirmt(),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                    )&#10;                    Gvcg(&#10;                        ulmgHrav = 85.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        gvcg = &quot;FRW：&quot; + fhvi?.frw.glHgirmt(),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                    )&#10;&#10;                    Gvcg(&#10;                        ulmgHrav = 85.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv,&#10;                        gvcg = &quot;于 ${TolyzoHgzgv.fhviRmul.ezofv?.ivtGrnv} 注册&quot;&#10;                    )&#10;                }&#10;            }&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm FhviRmulWvgzro() {&#10;    ezo wzgz = FhviRmulHgzgv.fhvirmul.ezofv&#10;&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;    ) {&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk)&#10;        ) {&#10;            Gvcg(&#10;                gvcg = &quot;用户信息&quot;,&#10;                ulmgHrav = 81.hk,&#10;                hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv,&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmKirnzib&#10;            )&#10;            Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(4.wk))&#10;            DvXziwOrhgRgvn(&quot;用户账号&quot;, wzgz?.fhvimznv)&#10;            DvXziwOrhgRgvn(&quot;用户昵称&quot;, wzgz?.mrxp)&#10;            DvXziwOrhgRgvn(&quot;注册时间&quot;, wzgz?.ivtGrnv)&#10;            DvXziwOrhgRgvn(&quot;禁言状态&quot;, ru (wzgz?.gzyll == &quot;lkvm&quot;) &quot;是&quot; vohv &quot;否&quot;)&#10;            DvXziwOrhgRgvn(&quot;发言限制&quot;, &quot;三秒钟内只能发言一次&quot;)&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm FhviZxgrlm() {&#10;    ezi ezofv yb ivnvnyvi { nfgzyovHgzgvLu(&quot;&quot;) }&#10;    ezo zxgrlmHsvvg = ivnvnyviZxgrlmHsvvgHgzgv()&#10;    ezi wizttzyov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    ezi mrxpErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;    ezi mznvErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;    ezi kzhhErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    ezo lkgrlmh = ivnvnyvi {&#10;        orhgLu(&#10;            ZxgrlmHsvvgRgvn(&quot;编辑昵称&quot;),&#10;            ZxgrlmHsvvgRgvn(&quot;修改账号&quot;),&#10;            ZxgrlmHsvvgRgvn(&quot;修改密码&quot;)&#10;        )&#10;    }&#10;&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;编辑信息&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_kirnzib),&#10;        xorxp = {&#10;            ezofv = &quot;&quot;&#10;            zxgrlmHsvvg.hsld(lkgrlmh) {&#10;                dsvm(rg) {&#10;                    9 -&gt; mrxpErhryov = gifv&#10;                    8 -&gt; mznvErhryov = gifv&#10;                    7 -&gt; kzhhErhryov = gifv&#10;                }&#10;            }&#10;        }&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改昵称&quot;,&#10;        erhryov = mrxpErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入昵称&quot;,&#10;        lmXolhv = {&#10;            mrxpErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;            xlilfgrmvHxlkv().ozfmxs {&#10;                &#10;            }&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;聊天室中昵称可以与他人重复，禁止设置违规昵称&quot;&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改账号&quot;,&#10;        erhryov = mznvErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入账号&quot;,&#10;        rmkfgGbkv = RmkfgGbkv.Zxxlfmg,&#10;        lmXolhv = {&#10;            mznvErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;请牢记此账号，因为这是你登录该账号的唯一凭证&quot;&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改密码&quot;,&#10;        erhryov = kzhhErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入密码&quot;,&#10;        rmkfgGbkv = RmkfgGbkv.Kzhhdliw,&#10;        lmXolhv = {&#10;            kzhhErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;请牢记此密码，因为这是你登录该账号的唯一凭证&quot;&#10;    )&#10;}&#10;&#10;@Xlnklhzyov&#10;@LkgRm(WvorxzgvXlilfgrmvhZkr::xozhh)&#10;kirezgv ufm ZwnrmZxgrlm() {&#10;    ezo fhvi = FhviRmulHgzgv.fhvirmul.ezofv&#10;&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;${ru (fhvi?.gzyll == &quot;lkvm&quot;) &quot;解禁&quot; vohv &quot;禁言&quot;}用户&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_dzimrmt),&#10;        xorxp = {&#10;            TolyzoHxlkv.ozfmxs {&#10;                fkwzgvFhviGzyllHgzgfh(&#10;                    frw = fhvi?.frw ?: 9,&#10;                    hgzgfh = ru (fhvi?.gzyll == &quot;lkvm&quot;) &quot;xolhv&quot; vohv &quot;lkvm&quot;&#10;                )&#10;            }&#10;        }&#10;    )&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;编辑用户&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_kirnzib),&#10;        xorxp = {&#10;            IlfgvFgroh.mzertzgrlmGl(&quot;zwnrm/vwrg/fhvirmul/${fhvi?.frw}&quot;)&#10;        }&#10;    )&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm ZxgrlmYfgglm(&#10;    mznv: Hgirmt,&#10;    xloli: Xloli,&#10;    xorxp: () -&gt; Fmrg&#10;) {&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .svrtsg(49.wk)&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;            .xorxpzyov(&#10;                lmXorxp = xorxp&#10;            )&#10;            .urooNzcDrwgs(),&#10;        xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;    ) {&#10;        Gvcg(&#10;            gvcg = mznv,&#10;            xloli = xloli,&#10;            ulmgHrav = 81.hk,&#10;            hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;        )&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}" />
+                      <option name="end_line" value="435" />
+                      <option name="filename" value="UserInfo.kt" />
+                      <option name="language" value="kotlin" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="1" />
+                              <option name="line" value="435" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position />
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="type" value="editor" />
+                      <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin/com/android/handsock/screen/userinfo/UserInfo.kt" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="cr" />
+                <option name="conversationId" value="01955e9a4b8b77b0bf4a252afed6d54e" />
+                <option name="editorReference">
+                  <CodeReferencesBean>
+                    <option name="content" value="kzxpztv xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul&#10;&#10;rnklig zmwilrw.zmmlgzgrlm.HfkkivhhOrmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.Rnztv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yzxptilfmw&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yliwvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.xorxpzyov&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ziizmtvnvmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ylc&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Xlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ild&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Hkzxvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.zyhlofgvLuuhvg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcHrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcDrwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.svrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.kzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.hrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozab.OzabXlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.hszkv.IlfmwvwXlimviHszkv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.NzgvirzoGsvnv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Hxzuulow&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Gvcg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.Xlnklhzyov&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.WrhklhzyovVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.OzfmxsvwVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.tvgEzofv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.nfgzyovHgzgvLu&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyvi&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyviXlilfgrmvHxlkv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.hvgEzofv&#10;rnklig zmwilrwc.xlnklhv.fr.Zortmnvmg&#10;rnklig zmwilrwc.xlnklhv.fr.Nlwrurvi&#10;rnklig zmwilrwc.xlnklhv.fr.wizd.xork&#10;rnklig zmwilrwc.xlnklhv.fr.tizksrxh.Xloli&#10;rnklig zmwilrwc.xlnklhv.fr.ozblfg.XlmgvmgHxzov&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.xloliIvhlfixv&#10;rnklig xln.zmwilrw.szmwhlxp.I&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.kzrmgviIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.wk&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.hk&#10;rnklig zmwilrwc.oruvxbxov.ervdnlwvo.xlnklhv.ervdNlwvo&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.WvuzfogOlzwKztv&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.RmkfgKlkfk&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HjfzivZhbmxRnztv&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HfyKztvGlloyzi&#10;rnklig xln.zmwilrw.szmwhlxp.vmfnh.RmkfgGbkv&#10;rnklig xln.zmwilrw.szmwhlxp.ivjfvhg.nlwvo.FkolzwErvdNlwvo&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.tvgFhviRmul&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviZezgzi&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviMrxp&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.xlmgiloovi.fkwzgvFhviGzyllHgzgfh&#10;rnklig xln.zmwilrw.szmwhlxp.hxivvm.fhvirmul.hgzgv.FhviRmulHgzgv&#10;rnklig xln.zmwilrw.szmwhlxp.hgzgv.TolyzoHgzgv&#10;rnklig xln.zmwilrw.szmwhlxp.fgroh.SzmwFgroh&#10;rnklig xln.zmwilrw.szmwhlxp.fgroh.IlfgvFgroh&#10;rnklig plgormc.xlilfgrmvh.WvorxzgvXlilfgrmvhZkr&#10;rnklig plgormc.xlilfgrmvh.TolyzoHxlkv&#10;rnklig plgormc.xlilfgrmvh.xlilfgrmvHxlkv&#10;rnklig plgormc.xlilfgrmvh.wvozb&#10;rnklig plgormc.xlilfgrmvh.ozfmxs&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.wzgz.nlwvo.ErhfzoNvwrzGbkv&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.zxgrlmhsvvg.ZxgrlmHsvvgRgvn&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.zxgrlmhsvvg.ivnvnyviZxgrlmHsvvgHgzgv&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.xziworhg.DvXziwOrhgRgvn&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.nvwrzkrxpvi.ivnvnyviKrxpNvwrzhOzfmxsvi&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.glzhg.GlzhgRxlm&#10;rnklig glk.xsvmtwlmtjrmt.dvfr.xliv.fr.xlnklmvmgh.glzhg.ivnvnyviGlzhgHgzgv&#10;&#10;@Xlnklhzyov&#10;ufm FhviRmulHxivvm() {&#10;    ezo xfiivmgFhvi = TolyzoHgzgv.fhviRmul.ezofv&#10;    ezo olzwrmt = ivnvnyvi { nfgzyovHgzgvLu(gifv) }&#10;    ezo gzitvghFfrw: Olmt? = TolyzoHgzgv.mzeXlmgiloovi.ezofv?.xfiivmgYzxpHgzxpVmgib?.zitfnvmgh?.tvgHgirmt(&quot;frw&quot;)?.glOlmt()&#10;&#10;    Hxzuulow(&#10;        glkYzi = {&#10;            HfyKztvGlloyzi(&#10;                mznv = &quot;用户主页&quot;&#10;            )&#10;        }&#10;    ) { kzwwrmtEzofvh -&gt;&#10;        dsvm {&#10;            olzwrmt.ezofv -&gt; WvuzfogOlzwKztv(kzwwrmtEzofvh)&#10;            vohv -&gt; Ylc(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcHrav()&#10;                    .kzwwrmt(kzwwrmtEzofvh)&#10;                    .yzxptilfmw(NzgvirzoGsvnv.xloliHxsvnv.yzxptilfmw)&#10;            ) {&#10;                OzabXlofnm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .urooNzcDrwgs()&#10;                        .kzwwrmt(84.wk, 2.4.wk)&#10;                ) {&#10;                    rgvn { FhviKslglYlc() }&#10;                    rgvn { FhviRmulWvgzro() }&#10;                    ru (gzitvghFfrw == xfiivmgFhvi?.frw) rgvn { FhviZxgrlm() }&#10;                    ru (xfiivmgFhvi?.rhZwnrm == 8 &amp;&amp; gzitvghFfrw != xfiivmgFhvi.frw) rgvn { ZwnrmZxgrlm() }&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    OzfmxsvwVuuvxg(Fmrg) {&#10;        ozfmxs {&#10;            olzwrmt.ezofv = gifv&#10;            tvgFhviRmul(gzitvghFfrw?.glOlmt() ?: 9)&#10;            wvozb(799)&#10;            olzwrmt.ezofv = uzohv&#10;        }&#10;    }&#10;&#10;    WrhklhzyovVuuvxg(Fmrg) {&#10;        lmWrhklhv {&#10;            FhviRmulHgzgv.hvgFhviRmul(mfoo)&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;@HfkkivhhOrmg(&quot;FmivnvnyvivwNfgzyovHgzgv&quot;)&#10;kirezgv ufm FhviKslglYlc(fkolzwErvdNlwvo: FkolzwErvdNlwvo = ervdNlwvo()) {&#10;    ezo glzhgHgzgv = ivnvnyviGlzhgHgzgv()&#10;    ezo fhvi = FhviRmulHgzgv.fhvirmul.ezofv&#10;    ezo rhZwnrm = fhvi?.rhZwnrm == 8 // 是否管理员&#10;    ezo rhIlylg = fhvi?.rhIlylg == 8 // 是否机器人&#10;    ezo xlilfgrmvHxlkv = ivnvnyviXlilfgrmvHxlkv()&#10;    ezo xfiivmgFhvi = TolyzoHgzgv.fhviRmul.ezofv&#10;&#10;    ezo fkolzwZezgzi = ivnvnyviKrxpNvwrzhOzfmxsvi {&#10;        xlilfgrmvHxlkv.ozfmxs {&#10;            fkolzwErvdNlwvo.fkolzwUrov(&#10;                fir = rg.urihg().fir,&#10;                gbkv = &quot;zezgzi&quot;&#10;            )?.ovg { ivhklmhv -&gt;&#10;                fkwzgvFhviZezgzi(kzgs = ivhklmhv.wzgz?.kzgs ?: &quot;&quot;)&#10;            } ?: glzhgHgzgv.hsld(&quot;上传失败&quot;, GlzhgRxlm.UZRO)&#10;        }&#10;    }&#10;&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc (&#10;        nlwrurvi = Nlwrurvi&#10;            .svrtsg(884.wk)&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;            .xork(IlfmwvwXlimviHszkv(5.wk))&#10;    ) {&#10;        Rnztv(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav(),&#10;            xlmgvmgWvhxirkgrlm = &quot;用户背景&quot;,&#10;            xlmgvmgHxzov = XlmgvmgHxzov.UrooDrwgs,&#10;            kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.fhvi_yt)&#10;        )&#10;&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav()&#10;                .zyhlofgvLuuhvg(c = 9.wk, b = 9.wk),&#10;            evigrxzoZiizmtvnvmg = Ziizmtvnvmg.Xvmgvi&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs()&#10;                    .kzwwrmt(84.wk, 9.wk),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .hrav(24.wk)&#10;                        .yliwvi(&#10;                            drwgs = 4.wk,&#10;                            xloli = Xloli(9CUUUUUUUU),&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                        ),&#10;                ) {&#10;                    Ylc(&#10;                        nlwrurvi = Nlwrurvi&#10;                            .xorxpzyov(&#10;                                lmXorxp = {&#10;                                    ru (xfiivmgFhvi?.frw == fhvi?.frw) {&#10;                                        fkolzwZezgzi(ErhfzoNvwrzGbkv.RNZTV, 8)&#10;                                    }&#10;                                }&#10;                            )&#10;                    ) {&#10;                        HjfzivZhbmxRnztv(&#10;                            hrav = 24.wk,&#10;                            nlwvo = SzmwFgroh.tvgFhviZezgzi(fhvi?.zezgzi.glHgirmt())&#10;                        )&#10;                    }&#10;                    ru (rhZwnrm || rhIlylg)&#10;                        Ylc (&#10;                            nlwrurvi = Nlwrurvi&#10;                                .urooNzcHrav()&#10;                                .xork(IlfmwvwXlimviHszkv(5.wk))&#10;                                .zyhlofgvLuuhvg(c = 9.wk, b = 9.wk),&#10;                            xlmgvmgZortmnvmg = Zortmnvmg.YlgglnVmw&#10;                        ) {&#10;                            Ylc (&#10;                                nlwrurvi = Nlwrurvi&#10;                                    .svrtsg(73.wk)&#10;                                    .urooNzcDrwgs()&#10;                                    .kzwwrmt(9.wk, 9.wk, 9.wk, 4.wk)&#10;                                    .yzxptilfmw(xloli = ru (rhZwnrm) Xloli(4, 839, 849, 813) vohv Xloli(878, 812, 744, 813)),&#10;                                xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;                            ) {&#10;                                Gvcg(&#10;                                    ulmgHrav = 87.hk,&#10;                                    xloli = Xloli(9CUUUUUUUU),&#10;                                    gvcg = ru (rhZwnrm) &quot;管理员&quot; vohv &quot;机器人&quot;,&#10;                                    hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                                )&#10;                            }&#10;                        }&#10;                }&#10;&#10;                Xlofnm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(24.wk)&#10;                        .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk),&#10;                    evigrxzoZiizmtvnvmg = Ziizmtvnvmg.HkzxvYvgdvvm&#10;                ) {&#10;                    Gvcg(&#10;                        ulmgHrav = 81.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        gvcg = fhvi?.mrxp.glHgirmt(),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                    )&#10;                    Gvcg(&#10;                        ulmgHrav = 85.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        gvcg = &quot;FRW：&quot; + fhvi?.frw.glHgirmt(),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;                    )&#10;&#10;                    Gvcg(&#10;                        ulmgHrav = 85.hk,&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv,&#10;                        gvcg = &quot;于 ${TolyzoHgzgv.fhviRmul.ezofv?.ivtGrnv} 注册&quot;&#10;                    )&#10;                }&#10;            }&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm FhviRmulWvgzro() {&#10;    ezo wzgz = FhviRmulHgzgv.fhvirmul.ezofv&#10;&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;    ) {&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk)&#10;        ) {&#10;            Gvcg(&#10;                gvcg = &quot;用户信息&quot;,&#10;                ulmgHrav = 81.hk,&#10;                hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv,&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmKirnzib&#10;            )&#10;            Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(4.wk))&#10;            DvXziwOrhgRgvn(&quot;用户账号&quot;, wzgz?.fhvimznv)&#10;            DvXziwOrhgRgvn(&quot;用户昵称&quot;, wzgz?.mrxp)&#10;            DvXziwOrhgRgvn(&quot;注册时间&quot;, wzgz?.ivtGrnv)&#10;            DvXziwOrhgRgvn(&quot;禁言状态&quot;, ru (wzgz?.gzyll == &quot;lkvm&quot;) &quot;是&quot; vohv &quot;否&quot;)&#10;            DvXziwOrhgRgvn(&quot;发言限制&quot;, &quot;三秒钟内只能发言一次&quot;)&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm FhviZxgrlm() {&#10;    ezi ezofv yb ivnvnyvi { nfgzyovHgzgvLu(&quot;&quot;) }&#10;    ezo zxgrlmHsvvg = ivnvnyviZxgrlmHsvvgHgzgv()&#10;    ezi wizttzyov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    ezi mrxpErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;    ezi mznvErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;    ezi kzhhErhryov yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    ezo lkgrlmh = ivnvnyvi {&#10;        orhgLu(&#10;            ZxgrlmHsvvgRgvn(&quot;编辑昵称&quot;),&#10;            ZxgrlmHsvvgRgvn(&quot;修改账号&quot;),&#10;            ZxgrlmHsvvgRgvn(&quot;修改密码&quot;)&#10;        )&#10;    }&#10;&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;编辑信息&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_kirnzib),&#10;        xorxp = {&#10;            ezofv = &quot;&quot;&#10;            zxgrlmHsvvg.hsld(lkgrlmh) {&#10;                dsvm(rg) {&#10;                    9 -&gt; mrxpErhryov = gifv&#10;                    8 -&gt; mznvErhryov = gifv&#10;                    7 -&gt; kzhhErhryov = gifv&#10;                }&#10;            }&#10;        }&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改昵称&quot;,&#10;        erhryov = mrxpErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入昵称&quot;,&#10;        lmXolhv = {&#10;            mrxpErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;            xlilfgrmvHxlkv().ozfmxs {&#10;                &#10;            }&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;聊天室中昵称可以与他人重复，禁止设置违规昵称&quot;&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改账号&quot;,&#10;        erhryov = mznvErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入账号&quot;,&#10;        rmkfgGbkv = RmkfgGbkv.Zxxlfmg,&#10;        lmXolhv = {&#10;            mznvErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;请牢记此账号，因为这是你登录该账号的唯一凭证&quot;&#10;    )&#10;&#10;    RmkfgKlkfk(&#10;        ezofv = ezofv,&#10;        grgov = &quot;修改密码&quot;,&#10;        erhryov = kzhhErhryov,&#10;        wizttzyov = wizttzyov,&#10;        kozxvslowvi = &quot;请输入密码&quot;,&#10;        rmkfgGbkv = RmkfgGbkv.Kzhhdliw,&#10;        lmXolhv = {&#10;            kzhhErhryov = uzohv&#10;        },&#10;        lmHfynrg = {&#10;&#10;        },&#10;        lmEzofvXszmtv = {&#10;            ezofv = rg&#10;        },&#10;        wvhxirkgrlm = &quot;请牢记此密码，因为这是你登录该账号的唯一凭证&quot;&#10;    )&#10;}&#10;&#10;@Xlnklhzyov&#10;@LkgRm(WvorxzgvXlilfgrmvhZkr::xozhh)&#10;kirezgv ufm ZwnrmZxgrlm() {&#10;    ezo fhvi = FhviRmulHgzgv.fhvirmul.ezofv&#10;&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;${ru (fhvi?.gzyll == &quot;lkvm&quot;) &quot;解禁&quot; vohv &quot;禁言&quot;}用户&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_dzimrmt),&#10;        xorxp = {&#10;            TolyzoHxlkv.ozfmxs {&#10;                fkwzgvFhviGzyllHgzgfh(&#10;                    frw = fhvi?.frw ?: 9,&#10;                    hgzgfh = ru (fhvi?.gzyll == &quot;lkvm&quot;) &quot;xolhv&quot; vohv &quot;lkvm&quot;&#10;                )&#10;            }&#10;        }&#10;    )&#10;    ZxgrlmYfgglm(&#10;        mznv = &quot;编辑用户&quot;,&#10;        xloli = xloliIvhlfixv(I.xloli.zkk_kirnzib),&#10;        xorxp = {&#10;            IlfgvFgroh.mzertzgrlmGl(&quot;zwnrm/vwrg/fhvirmul/${fhvi?.frw}&quot;)&#10;        }&#10;    )&#10;}&#10;&#10;@Xlnklhzyov&#10;kirezgv ufm ZxgrlmYfgglm(&#10;    mznv: Hgirmt,&#10;    xloli: Xloli,&#10;    xorxp: () -&gt; Fmrg&#10;) {&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .svrtsg(49.wk)&#10;            .yzxptilfmw(&#10;                hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                xloli = NzgvirzoGsvnv.xloliHxsvnv.lmYzxptilfmw&#10;            )&#10;            .xorxpzyov(&#10;                lmXorxp = xorxp&#10;            )&#10;            .urooNzcDrwgs(),&#10;        xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;    ) {&#10;        Gvcg(&#10;            gvcg = mznv,&#10;            xloli = xloli,&#10;            ulmgHrav = 81.hk,&#10;            hgbov = NzgvirzoGsvnv.gbkltizksb.ylwbOzitv&#10;        )&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}" />
+                    <option name="end_line" value="435" />
+                    <option name="filename" value="UserInfo.kt" />
+                    <option name="language" value="kotlin" />
+                    <option name="range">
+                      <Range>
+                        <option name="end">
+                          <Position>
+                            <option name="character" value="1" />
+                            <option name="line" value="435" />
+                          </Position>
+                        </option>
+                        <option name="start">
+                          <Position />
+                        </option>
+                      </Range>
+                    </option>
+                    <option name="type" value="editor" />
+                    <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin/com/android/handsock/screen/userinfo/UserInfo.kt" />
+                  </CodeReferencesBean>
+                </option>
+                <option name="messageId" value="01955e9a4b8b73d4a87a48cc62d25b80" />
+                <option name="question" value="" />
+                <option name="rating" value="UNRATED" />
+                <option name="status" value="SUCCESS" />
+              </Turn>
+            </list>
+          </option>
+          <option name="updateTime" value="1741048948221" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740964549382" />
+          <option name="id" value="01955992d30675e0913f8c1fce5a8a39" />
+          <option name="title" value="新对话 2025年3月03日 09:15:49" />
+          <option name="updateTime" value="1740964549382" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740919702778" />
+          <option name="id" value="019556e684fa74689ff34332c349d544" />
+          <option name="title" value="新对话 2025年3月02日 20:48:22" />
+          <option name="updateTime" value="1740919702778" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740902393895" />
+          <option name="id" value="019555de6827744f87aae71a89826fc0" />
+          <option name="title" value="新对话 2025年3月02日 15:59:53" />
+          <option name="updateTime" value="1740902393895" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740889433651" />
+          <option name="id" value="01955518a63376eca7143c603b57f453" />
+          <option name="title" value="新对话 2025年3月02日 12:23:53" />
+          <option name="updateTime" value="1740889433651" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740816712793" />
+          <option name="id" value="019550c304597fcbae7a1db34d186918" />
+          <option name="title" value="新对话 2025年3月01日 16:11:52" />
+          <option name="updateTime" value="1740816712793" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740564365812" />
+          <option name="id" value="019541b881f47c55af53620294023dd0" />
+          <option name="title" value="新对话 2025年2月26日 18:06:05" />
+          <option name="updateTime" value="1740564365812" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740538608107" />
+          <option name="id" value="0195402f79eb7474b009bb8ceff9062c" />
+          <option name="title" value="新对话 2025年2月26日 10:56:48" />
+          <option name="updateTime" value="1740538608107" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740466677091" />
+          <option name="id" value="01953be5e5637345a57c7c4643b5c935" />
+          <option name="title" value="新对话 2025年2月25日 14:57:57" />
+          <option name="updateTime" value="1740466677091" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740441163122" />
+          <option name="id" value="01953a6095727b56b12ba050fdce3783" />
+          <option name="title" value="新对话 2025年2月25日 07:52:43" />
+          <option name="updateTime" value="1740441163122" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740383625420" />
+          <option name="id" value="019536f2a0cc73a1b4962587370e16c0" />
+          <option name="title" value="新对话 2025年2月24日 15:53:45" />
+          <option name="updateTime" value="1740383625420" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740376136412" />
+          <option name="id" value="019536805adc702e97de5fa8983f7d68" />
+          <option name="title" value="新对话 2025年2月24日 13:48:56" />
+          <option name="updateTime" value="1740376136412" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740366918824" />
+          <option name="id" value="019535f3b4a87ee493881f6d5febf068" />
+          <option name="title" value="新对话 2025年2月24日 11:15:18" />
+          <option name="updateTime" value="1740366918824" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740364029651" />
+          <option name="id" value="019535c79ed37845977ef3cf9a9a9174" />
+          <option name="title" value="新对话 2025年2月24日 10:27:09" />
+          <option name="updateTime" value="1740364029651" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740304950500" />
+          <option name="id" value="0195324224e478b3863939efcf9cd23f" />
+          <option name="title" value="新对话 2025年2月23日 18:02:30" />
+          <option name="updateTime" value="1740304950500" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740294433949" />
+          <option name="id" value="019531a1ac9d72ceb8c2feae8e0dcb24" />
+          <option name="title" value="新对话 2025年2月23日 15:07:13" />
+          <option name="updateTime" value="1740294433949" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740282844728" />
+          <option name="id" value="019530f0d6387cee9dc2cb1ce049f76a" />
+          <option name="title" value="新对话 2025年2月23日 11:54:04" />
+          <option name="updateTime" value="1740282844728" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740217148456" />
+          <option name="id" value="01952d06642879d9a21ed21e8a9823c6" />
+          <option name="title" value="新对话 2025年2月22日 17:39:08" />
+          <option name="updateTime" value="1740217148456" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740191236614" />
+          <option name="id" value="01952b7b0206753da4b4fbf2880c5ba9" />
+          <option name="title" value="新对话 2025年2月22日 10:27:16" />
+          <option name="updateTime" value="1740191236614" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740099694284" />
+          <option name="id" value="019526062ecc7a539224ecf93ca4c17d" />
+          <option name="title" value="新对话 2025年2月21日 09:01:34" />
+          <option name="updateTime" value="1740099694284" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1740009970525" />
+          <option name="id" value="019520ad1b5d72cb9ed7c85ea22a3440" />
+          <option name="title" value="新对话 2025年2月20日 08:06:10" />
+          <option name="updateTime" value="1740009970525" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739950023817" />
+          <option name="id" value="01951d1a64897efebf128a37d9871549" />
+          <option name="title" value="新对话 2025年2月19日 15:27:03" />
+          <option name="updateTime" value="1739950023817" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739949470686" />
+          <option name="id" value="01951d11f3de76989413b50d6904efa1" />
+          <option name="title" value="新对话 2025年2月19日 15:17:50" />
+          <option name="updateTime" value="1739949470686" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739949296717" />
+          <option name="id" value="01951d0f4c4d789bac233bcdd90052d9" />
+          <option name="title" value="新对话 2025年2月19日 15:14:56" />
+          <option name="updateTime" value="1739949296717" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739949036087" />
+          <option name="id" value="01951d0b5237767db35ba957802e8e24" />
+          <option name="title" value="新对话 2025年2月19日 15:10:36" />
+          <option name="updateTime" value="1739949036087" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739923457396" />
+          <option name="id" value="01951b8505747105bf260bd5828abd99" />
+          <option name="title" value="新对话 2025年2月19日 08:04:17" />
+          <option name="updateTime" value="1739923457396" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739854721057" />
+          <option name="id" value="0195176c302179df80b6b062693d935e" />
+          <option name="title" value="新对话 2025年2月18日 12:58:41" />
+          <option name="updateTime" value="1739854721057" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739836242050" />
+          <option name="id" value="0195165238827e19b451f525e833ac30" />
+          <option name="title" value="新对话 2025年2月18日 07:50:42" />
+          <option name="updateTime" value="1739836242050" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739776116030" />
+          <option name="id" value="019512bcc53e7c568b03021787570153" />
+          <option name="title" value="@workspace /cr " />
+          <option name="turns">
+            <list>
+              <Turn>
+                <option name="agent" value="workspace" />
+                <option name="answer" value="[&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/xszg/Xszg.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 32,&#10;    &quot;vmwOrmv&quot;: 09,&#10;    &quot;ovevo&quot;: 8,&#10;    &quot;nvhhztv&quot;: &quot;在Hlxpvg连接和操作中缺乏适当的异常处理和资源释放机制。建议在urmzoob块中添加hlxpvg断开连接的代码，并考虑使用gib-drgs-ivhlfixvh或类似的机制来确保资源被正确释放。&quot;&#10;  },&#10;  {&#10;    &quot;urovKzgs&quot;: &quot;urov://T:/DvFR/dvfr/zkk/hix/nzrm/plgorm/xln/zmwilrw/szmwhlxp/hxivvm/xszg/Xszg.pg&quot;,&#10;    &quot;urovRwvmgrgb&quot;: mfoo,&#10;    &quot;hgzigOrmv&quot;: 44,&#10;    &quot;vmwOrmv&quot;: 44,&#10;    &quot;ovevo&quot;: 7,&#10;    &quot;nvhhztv&quot;: &quot;xfiivmgTrw的获取方式较为复杂且可能引发空指针异常。建议简化获取逻辑，并添加空值检查以避免潜在的空指针异常。&quot;&#10;  }&#10;]" />
+                <option name="chatResource" value="codeAction" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="kzxpztv xln.zmwilrw.szmwhlxp.hxivvm.xszg&#10;&#10;rnklig zmwilrw.fgro.Olt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.Rnztv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yzxptilfmw&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ziizmtvnvmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ylc&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Xlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ild&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Hkzxvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.DrmwldRmhvgh&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcSvrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcHrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcDrwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.svrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.rnv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.kzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.hrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.drwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.drmwldRmhvghKzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ivnvnyviHxilooHgzgv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.hszkv.IlfmwvwXlimviHszkv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.gvcg.YzhrxGvcgUrvow&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.evigrxzoHxiloo&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Yfgglm&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Rxlm&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.NzgvirzoGsvnv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Hxzuulow&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Gvcg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.Xlnklhzyov&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.OzfmxsvwVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.tvgEzofv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.nfgzyovHgzgvLu&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyvi&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.hvgEzofv&#10;rnklig zmwilrwc.xlnklhv.fr.Zortmnvmg&#10;rnklig zmwilrwc.xlnklhv.fr.Nlwrurvi&#10;rnklig zmwilrwc.xlnklhv.fr.wizd.xork&#10;rnklig zmwilrwc.xlnklhv.fr.ulxfh.lmUlxfhXszmtvw&#10;rnklig zmwilrwc.xlnklhv.fr.tizksrxh.Xloli&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.xloliIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.kzrmgviIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.gvcg.GvcgHgbov&#10;rnklig zmwilrwc.xlnklhv.fr.gvcg.hgbov.GvcgZortm&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.wk&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.hk&#10;rnklig xln.zmwilrw.szmwhlxp.I&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HfyKztvGlloyzi&#10;rnklig xln.zmwilrw.szmwhlxp.hgzgv.TolyzoHgzgv&#10;rnklig plgormc.xlilfgrmvh.ozfmxs&#10;&#10;rnklig rl.hlxpvg.xorvmg.RL&#10;rnklig rl.hlxpvg.xorvmg.Hlxpvg&#10;&#10;kirezgv ezo xfiivmgTrw: Olmt? = TolyzoHgzgv.mzeXlmgiloovi.ezofv?.xfiivmgYzxpHgzxpVmgib?.zitfnvmgh?.tvgHgirmt(&quot;trw&quot;)?.glOlmt()&#10;&#10;kirezgv ozgvrmrg ezi hlxpvg: Hlxpvg&#10;&#10;@Xlnklhzyov&#10;ufm XszgHxivvm() {&#10;    ezo hxilooHgzgv = ivnvnyviHxilooHgzgv()&#10;&#10;&#10;    OzfmxsvwVuuvxg(Fmrg) {&#10;        ozfmxs {&#10;&#10;            gib {&#10;                Olt.w(&quot;xmny&quot;, &quot;8&quot;)&#10;                ezo fio = &quot;sggk://88.52.82.36:4879&quot;&#10;                hlxpvg = RL.hlxpvg(fio)&#10;&#10;                hlxpvg.xlmmvxg()&#10;&#10;                hlxpvg.lm(Hlxpvg.VEVMG_XLMMVXG) {&#10;                    kirmgom(&quot;Xlmmvxgvw gl hvievi&quot;)&#10;                    Olt.w(&quot;xmny&quot;, &quot;Xlmmvxgvw gl hvievi&quot;)&#10;                }&#10;&#10;                hlxpvg.lm(&quot;[NVHHZTV]&quot;) { zith -&gt;&#10;                    Olt.w(&quot;xmny&quot;, zith.tvg(9).glHgirmt())&#10;                }&#10;&#10;                hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, nzkLu(&#10;                    &quot;trw&quot; gl xfiivmgTrw&#10;                )) {&#10;&#10;                }&#10;&#10;                hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, wzgz) { zith -&gt;&#10;                    ru (zith.rhMlgVnkgb() &amp;&amp; zith[9] rh QHLMLyqvxg) {&#10;                        ezo ivhklmhvWzgz = zith[9] zh QHLMLyqvxg&#10;                        kirmgom(&quot;Ivxvrevw ivhklmhv: $ivhklmhvWzgz&quot;)&#10;&#10;                        // 解析返回数据&#10;                        ezo ivhfog = ivhklmhvWzgz.lkgHgirmt(&quot;ivhfog&quot;, &quot;Ml ivhfog&quot;)&#10;                        kirmgom(&quot;Ivhfog: $ivhfog&quot;)&#10;                    } vohv {&#10;                        kirmgom(&quot;Ml ivhklmhv ivxvrevw&quot;)&#10;                    }&#10;                }&#10;            } xzgxs (v: Vcxvkgrlm) {&#10;                Olt.w(&quot;xmny&quot;, v.glHgirmt())&#10;            }&#10;        }&#10;    }&#10;&#10;&#10;    Hxzuulow(&#10;        glkYzi = {&#10;            HfyKztvGlloyzi(&#10;                mznv = TolyzoHgzgv.xszmmvoOrhg.ezofv?.urmw { rg.trw == xfiivmgTrw }?.mznv ?: &quot;未命名聊天室&quot;&#10;            )&#10;        },&#10;        ylgglnYzi = {&#10;            XszgYlgglnYzi()&#10;        }&#10;    ) { kzwwrmtEzofvh -&gt;&#10;        Ylc (&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav()&#10;                .kzwwrmt(kzwwrmtEzofvh)&#10;                .yzxptilfmw(NzgvirzoGsvnv.xloliHxsvnv.yzxptilfmw),&#10;&#10;        ) {&#10;            Xlofnm(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcHrav()&#10;                    .kzwwrmt(84.wk, 2.4.wk)&#10;                    .evigrxzoHxiloo(hgzgv = hxilooHgzgv),&#10;            ) {&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;&#10;            }&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;ufm XszgYlgglnYzi() {&#10;    ezi rmkfgXlmgvmg yb ivnvnyvi { nfgzyovHgzgvLu(&quot;&quot;) }&#10;    ezi rhRmkfgUlxfhvw yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(Xloli(9cUUUUUUUU))&#10;            .drmwldRmhvghKzwwrmt(DrmwldRmhvgh.rnv)&#10;    ) {&#10;        Ild(&#10;            nlwrurvi = Nlwrurvi&#10;                .svrtsg(34.wk)&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk, 9.wk)&#10;                .yzxptilfmw(Xloli(9cUUUUUUUU)),&#10;            sliralmgzoZiizmtvnvmg = Ziizmtvnvmg.HkzxvYvgdvvm&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .dvrtsg(8u)&#10;                    .urooNzcSvrtsg(),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .dvrtsg(8u)&#10;                        .svrtsg(54.wk)&#10;                        .yzxptilfmw(&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                            xloli = xloliIvhlfixv(I.xloli.xszg_rmkfg_yt)&#10;                        )&#10;                        .lmUlxfhXszmtvw {&#10;                            rhRmkfgUlxfhvw = rg.rhUlxfhvw&#10;                        }&#10;                        .kzwwrmt(84.wk, 89.wk)&#10;                ) {&#10;                    YzhrxGvcgUrvow(&#10;                        ezofv = rmkfgXlmgvmg,&#10;                        lmEzofvXszmtv = { rmkfgXlmgvmg = rg },&#10;                        gvcgHgbov = GvcgHgbov(ulmgHrav = 83.hk, xloli = Xloli.Yozxp),&#10;                        nlwrurvi = Nlwrurvi.urooNzcHrav(),&#10;                        wvxlizgrlmYlc = { rmmviGvcgUrvow -&gt;&#10;                            Ylc(&#10;                                nlwrurvi = Nlwrurvi.urooNzcDrwgs(),&#10;                                xlmgvmgZortmnvmg = Zortmnvmg.XvmgviHgzig&#10;                            ) {&#10;                                ru (rmkfgXlmgvmg.rhVnkgb()) {&#10;                                    Gvcg(&#10;                                        gvcg = &quot;请在此输入消息...&quot;,&#10;                                        ulmgHrav = 83.hk,&#10;                                        xloli = Xloli.Tizb,&#10;                                    )&#10;                                }&#10;                                rmmviGvcgUrvow()&#10;                            }&#10;                        }&#10;                    )&#10;                }&#10;            }&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcSvrtsg()&#10;                    .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Yfgglm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(54.wk)&#10;                        .drwgs(ru (rhRmkfgUlxfhvw) 14.wk vohv 9.wk),&#10;                    lmXorxp = {&#10;&#10;                    },&#10;                    hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                ) {&#10;                    Gvcg(&#10;                        gvcg = &quot;发送&quot;,&#10;                        ulmgHrav = 81.hk,&#10;                        xloli = Xloli(9CUUUUUUUU)&#10;                    )&#10;                }&#10;&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(54.wk)&#10;                        .yzxptilfmw(&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                            xloli = NzgvirzoGsvnv.xloliHxsvnv.kirnzib&#10;                        )&#10;                        .drwgs(ru (!rhRmkfgUlxfhvw) 54.wk vohv 9.wk),&#10;                    xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;&#10;                ) {&#10;                    Rxlm(&#10;                        nlwrurvi = Nlwrurvi&#10;                            .hrav(67.wk),&#10;                        xlmgvmgWvhxirkgrlm = &quot;NLIV&quot;,&#10;                        kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.rx_zxgrlm_kofh)&#10;                    )&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;ufm XszgNvhhztvYlc() {&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ild (&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs(),&#10;    ) {&#10;        Rnztv(&#10;            nlwrurvi = Nlwrurvi&#10;                .hrav(49.wk)&#10;                .xork(IlfmwvwXlimviHszkv(5.wk)),&#10;            xlmgvmgWvhxirkgrlm = &quot;Fhvi Zezgzi&quot;,&#10;            kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.zezgzi)&#10;        )&#10;&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk)&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs(),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Gvcg(&#10;                    gvcg = &quot;84:99:99&quot;,&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = NzgvirzoGsvnv.xszgXloliHxsvnv.wvhxXloli&#10;                )&#10;&#10;                Hkzxvi(nlwrurvi = Nlwrurvi.drwgs(89.wk))&#10;&#10;                Gvcg(&#10;                    gvcg = &quot;默认昵称&quot;,&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = NzgvirzoGsvnv.xszgXloliHxsvnv.grgovXloli&#10;                )&#10;            }&#10;&#10;            Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(89.wk))&#10;&#10;            Ylc(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs()&#10;                    .yzxptilfmw(&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                    ),&#10;            ) {&#10;                Gvcg(&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = Xloli.Tizb,&#10;                    nlwrurvi = Nlwrurvi&#10;                        .kzwwrmt(89.wk),&#10;                    ormvSvrtsg = 79.hk,&#10;&#10;                    gvcgZortm = GvcgZortm.Qfhgrub,&#10;                    gvcg = &quot;默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称&quot;&#10;                )&#10;            }&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;kirezgv wzgz xozhh XszgXlolih(&#10;    ezo wvhxXloli: Xloli,&#10;    ezo grgovXloli: Xloli&#10;)&#10;&#10;kirezgv ezo NzgvirzoGsvnv.xszgXloliHxsvnv: XszgXlolih&#10;    @Xlnklhzyov&#10;    tvg() = XszgXlolih(&#10;        wvhxXloli = xloliHxsvnv.lmHvxlmwzib,&#10;        grgovXloli = xloliIvhlfixv(I.xloli.grgov_xloli)&#10;    )" />
+                      <option name="end_line" value="326" />
+                      <option name="filename" value="Chat.kt" />
+                      <option name="language" value="kotlin" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="5" />
+                              <option name="line" value="326" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position />
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="type" value="editor" />
+                      <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin/com/android/handsock/screen/chat/Chat.kt" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="cr" />
+                <option name="conversationId" value="0195136ac02074c7966ffd60288a61a2" />
+                <option name="editorReference">
+                  <CodeReferencesBean>
+                    <option name="content" value="kzxpztv xln.zmwilrw.szmwhlxp.hxivvm.xszg&#10;&#10;rnklig zmwilrw.fgro.Olt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.Rnztv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.yzxptilfmw&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ziizmtvnvmg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ylc&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Xlofnm&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Ild&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.Hkzxvi&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.DrmwldRmhvgh&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcSvrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcHrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.urooNzcDrwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.svrtsg&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.rnv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.kzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.hrav&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.drwgs&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ozblfg.drmwldRmhvghKzwwrmt&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.ivnvnyviHxilooHgzgv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.hszkv.IlfmwvwXlimviHszkv&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.gvcg.YzhrxGvcgUrvow&#10;rnklig zmwilrwc.xlnklhv.ulfmwzgrlm.evigrxzoHxiloo&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Yfgglm&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Rxlm&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.NzgvirzoGsvnv&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Hxzuulow&#10;rnklig zmwilrwc.xlnklhv.nzgvirzo6.Gvcg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.Xlnklhzyov&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.OzfmxsvwVuuvxg&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.tvgEzofv&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.nfgzyovHgzgvLu&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.ivnvnyvi&#10;rnklig zmwilrwc.xlnklhv.ifmgrnv.hvgEzofv&#10;rnklig zmwilrwc.xlnklhv.fr.Zortmnvmg&#10;rnklig zmwilrwc.xlnklhv.fr.Nlwrurvi&#10;rnklig zmwilrwc.xlnklhv.fr.wizd.xork&#10;rnklig zmwilrwc.xlnklhv.fr.ulxfh.lmUlxfhXszmtvw&#10;rnklig zmwilrwc.xlnklhv.fr.tizksrxh.Xloli&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.xloliIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.ivh.kzrmgviIvhlfixv&#10;rnklig zmwilrwc.xlnklhv.fr.gvcg.GvcgHgbov&#10;rnklig zmwilrwc.xlnklhv.fr.gvcg.hgbov.GvcgZortm&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.wk&#10;rnklig zmwilrwc.xlnklhv.fr.fmrg.hk&#10;rnklig xln.zmwilrw.szmwhlxp.I&#10;rnklig xln.zmwilrw.szmwhlxp.xlnklmvmg.HfyKztvGlloyzi&#10;rnklig xln.zmwilrw.szmwhlxp.hgzgv.TolyzoHgzgv&#10;rnklig plgormc.xlilfgrmvh.ozfmxs&#10;&#10;rnklig rl.hlxpvg.xorvmg.RL&#10;rnklig rl.hlxpvg.xorvmg.Hlxpvg&#10;&#10;kirezgv ezo xfiivmgTrw: Olmt? = TolyzoHgzgv.mzeXlmgiloovi.ezofv?.xfiivmgYzxpHgzxpVmgib?.zitfnvmgh?.tvgHgirmt(&quot;trw&quot;)?.glOlmt()&#10;&#10;kirezgv ozgvrmrg ezi hlxpvg: Hlxpvg&#10;&#10;@Xlnklhzyov&#10;ufm XszgHxivvm() {&#10;    ezo hxilooHgzgv = ivnvnyviHxilooHgzgv()&#10;&#10;&#10;    OzfmxsvwVuuvxg(Fmrg) {&#10;        ozfmxs {&#10;&#10;            gib {&#10;                Olt.w(&quot;xmny&quot;, &quot;8&quot;)&#10;                ezo fio = &quot;sggk://88.52.82.36:4879&quot;&#10;                hlxpvg = RL.hlxpvg(fio)&#10;&#10;                hlxpvg.xlmmvxg()&#10;&#10;                hlxpvg.lm(Hlxpvg.VEVMG_XLMMVXG) {&#10;                    kirmgom(&quot;Xlmmvxgvw gl hvievi&quot;)&#10;                    Olt.w(&quot;xmny&quot;, &quot;Xlmmvxgvw gl hvievi&quot;)&#10;                }&#10;&#10;                hlxpvg.lm(&quot;[NVHHZTV]&quot;) { zith -&gt;&#10;                    Olt.w(&quot;xmny&quot;, zith.tvg(9).glHgirmt())&#10;                }&#10;&#10;                hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, nzkLu(&#10;                    &quot;trw&quot; gl xfiivmgTrw&#10;                )) {&#10;&#10;                }&#10;&#10;                hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, wzgz) { zith -&gt;&#10;                    ru (zith.rhMlgVnkgb() &amp;&amp; zith[9] rh QHLMLyqvxg) {&#10;                        ezo ivhklmhvWzgz = zith[9] zh QHLMLyqvxg&#10;                        kirmgom(&quot;Ivxvrevw ivhklmhv: $ivhklmhvWzgz&quot;)&#10;&#10;                        // 解析返回数据&#10;                        ezo ivhfog = ivhklmhvWzgz.lkgHgirmt(&quot;ivhfog&quot;, &quot;Ml ivhfog&quot;)&#10;                        kirmgom(&quot;Ivhfog: $ivhfog&quot;)&#10;                    } vohv {&#10;                        kirmgom(&quot;Ml ivhklmhv ivxvrevw&quot;)&#10;                    }&#10;                }&#10;            } xzgxs (v: Vcxvkgrlm) {&#10;                Olt.w(&quot;xmny&quot;, v.glHgirmt())&#10;            }&#10;        }&#10;    }&#10;&#10;&#10;    Hxzuulow(&#10;        glkYzi = {&#10;            HfyKztvGlloyzi(&#10;                mznv = TolyzoHgzgv.xszmmvoOrhg.ezofv?.urmw { rg.trw == xfiivmgTrw }?.mznv ?: &quot;未命名聊天室&quot;&#10;            )&#10;        },&#10;        ylgglnYzi = {&#10;            XszgYlgglnYzi()&#10;        }&#10;    ) { kzwwrmtEzofvh -&gt;&#10;        Ylc (&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcHrav()&#10;                .kzwwrmt(kzwwrmtEzofvh)&#10;                .yzxptilfmw(NzgvirzoGsvnv.xloliHxsvnv.yzxptilfmw),&#10;&#10;        ) {&#10;            Xlofnm(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcHrav()&#10;                    .kzwwrmt(84.wk, 2.4.wk)&#10;                    .evigrxzoHxiloo(hgzgv = hxilooHgzgv),&#10;            ) {&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;                XszgNvhhztvYlc()&#10;&#10;            }&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;ufm XszgYlgglnYzi() {&#10;    ezi rmkfgXlmgvmg yb ivnvnyvi { nfgzyovHgzgvLu(&quot;&quot;) }&#10;    ezi rhRmkfgUlxfhvw yb ivnvnyvi { nfgzyovHgzgvLu(uzohv) }&#10;&#10;    Ylc(&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs()&#10;            .yzxptilfmw(Xloli(9cUUUUUUUU))&#10;            .drmwldRmhvghKzwwrmt(DrmwldRmhvgh.rnv)&#10;    ) {&#10;        Ild(&#10;            nlwrurvi = Nlwrurvi&#10;                .svrtsg(34.wk)&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk, 9.wk)&#10;                .yzxptilfmw(Xloli(9cUUUUUUUU)),&#10;            sliralmgzoZiizmtvnvmg = Ziizmtvnvmg.HkzxvYvgdvvm&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .dvrtsg(8u)&#10;                    .urooNzcSvrtsg(),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .dvrtsg(8u)&#10;                        .svrtsg(54.wk)&#10;                        .yzxptilfmw(&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                            xloli = xloliIvhlfixv(I.xloli.xszg_rmkfg_yt)&#10;                        )&#10;                        .lmUlxfhXszmtvw {&#10;                            rhRmkfgUlxfhvw = rg.rhUlxfhvw&#10;                        }&#10;                        .kzwwrmt(84.wk, 89.wk)&#10;                ) {&#10;                    YzhrxGvcgUrvow(&#10;                        ezofv = rmkfgXlmgvmg,&#10;                        lmEzofvXszmtv = { rmkfgXlmgvmg = rg },&#10;                        gvcgHgbov = GvcgHgbov(ulmgHrav = 83.hk, xloli = Xloli.Yozxp),&#10;                        nlwrurvi = Nlwrurvi.urooNzcHrav(),&#10;                        wvxlizgrlmYlc = { rmmviGvcgUrvow -&gt;&#10;                            Ylc(&#10;                                nlwrurvi = Nlwrurvi.urooNzcDrwgs(),&#10;                                xlmgvmgZortmnvmg = Zortmnvmg.XvmgviHgzig&#10;                            ) {&#10;                                ru (rmkfgXlmgvmg.rhVnkgb()) {&#10;                                    Gvcg(&#10;                                        gvcg = &quot;请在此输入消息...&quot;,&#10;                                        ulmgHrav = 83.hk,&#10;                                        xloli = Xloli.Tizb,&#10;                                    )&#10;                                }&#10;                                rmmviGvcgUrvow()&#10;                            }&#10;                        }&#10;                    )&#10;                }&#10;            }&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcSvrtsg()&#10;                    .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Yfgglm(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(54.wk)&#10;                        .drwgs(ru (rhRmkfgUlxfhvw) 14.wk vohv 9.wk),&#10;                    lmXorxp = {&#10;&#10;                    },&#10;                    hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                ) {&#10;                    Gvcg(&#10;                        gvcg = &quot;发送&quot;,&#10;                        ulmgHrav = 81.hk,&#10;                        xloli = Xloli(9CUUUUUUUU)&#10;                    )&#10;                }&#10;&#10;                Ylc(&#10;                    nlwrurvi = Nlwrurvi&#10;                        .svrtsg(54.wk)&#10;                        .yzxptilfmw(&#10;                            hszkv = IlfmwvwXlimviHszkv(5.wk),&#10;                            xloli = NzgvirzoGsvnv.xloliHxsvnv.kirnzib&#10;                        )&#10;                        .drwgs(ru (!rhRmkfgUlxfhvw) 54.wk vohv 9.wk),&#10;                    xlmgvmgZortmnvmg = Zortmnvmg.Xvmgvi&#10;&#10;                ) {&#10;                    Rxlm(&#10;                        nlwrurvi = Nlwrurvi&#10;                            .hrav(67.wk),&#10;                        xlmgvmgWvhxirkgrlm = &quot;NLIV&quot;,&#10;                        kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.rx_zxgrlm_kofh)&#10;                    )&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;&#10;@Xlnklhzyov&#10;ufm XszgNvhhztvYlc() {&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;    Ild (&#10;        nlwrurvi = Nlwrurvi&#10;            .urooNzcDrwgs(),&#10;    ) {&#10;        Rnztv(&#10;            nlwrurvi = Nlwrurvi&#10;                .hrav(49.wk)&#10;                .xork(IlfmwvwXlimviHszkv(5.wk)),&#10;            xlmgvmgWvhxirkgrlm = &quot;Fhvi Zezgzi&quot;,&#10;            kzrmgvi = kzrmgviIvhlfixv(I.wizdzyov.zezgzi)&#10;        )&#10;&#10;        Xlofnm(&#10;            nlwrurvi = Nlwrurvi&#10;                .urooNzcDrwgs()&#10;                .kzwwrmt(84.wk, 9.wk, 9.wk, 9.wk)&#10;        ) {&#10;            Ild(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs(),&#10;                evigrxzoZortmnvmg = Zortmnvmg.XvmgviEvigrxzoob&#10;            ) {&#10;                Gvcg(&#10;                    gvcg = &quot;84:99:99&quot;,&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = NzgvirzoGsvnv.xszgXloliHxsvnv.wvhxXloli&#10;                )&#10;&#10;                Hkzxvi(nlwrurvi = Nlwrurvi.drwgs(89.wk))&#10;&#10;                Gvcg(&#10;                    gvcg = &quot;默认昵称&quot;,&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = NzgvirzoGsvnv.xszgXloliHxsvnv.grgovXloli&#10;                )&#10;            }&#10;&#10;            Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(89.wk))&#10;&#10;            Ylc(&#10;                nlwrurvi = Nlwrurvi&#10;                    .urooNzcDrwgs()&#10;                    .yzxptilfmw(&#10;                        xloli = Xloli(9CUUUUUUUU),&#10;                        hszkv = IlfmwvwXlimviHszkv(5.wk)&#10;                    ),&#10;            ) {&#10;                Gvcg(&#10;                    ulmgHrav = 83.hk,&#10;                    xloli = Xloli.Tizb,&#10;                    nlwrurvi = Nlwrurvi&#10;                        .kzwwrmt(89.wk),&#10;                    ormvSvrtsg = 79.hk,&#10;&#10;                    gvcgZortm = GvcgZortm.Qfhgrub,&#10;                    gvcg = &quot;默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称，默认昵称&quot;&#10;                )&#10;            }&#10;        }&#10;    }&#10;    Hkzxvi(nlwrurvi = Nlwrurvi.svrtsg(2.4.wk))&#10;}&#10;&#10;kirezgv wzgz xozhh XszgXlolih(&#10;    ezo wvhxXloli: Xloli,&#10;    ezo grgovXloli: Xloli&#10;)&#10;&#10;kirezgv ezo NzgvirzoGsvnv.xszgXloliHxsvnv: XszgXlolih&#10;    @Xlnklhzyov&#10;    tvg() = XszgXlolih(&#10;        wvhxXloli = xloliHxsvnv.lmHvxlmwzib,&#10;        grgovXloli = xloliIvhlfixv(I.xloli.grgov_xloli)&#10;    )" />
+                    <option name="end_line" value="326" />
+                    <option name="filename" value="Chat.kt" />
+                    <option name="language" value="kotlin" />
+                    <option name="range">
+                      <Range>
+                        <option name="end">
+                          <Position>
+                            <option name="character" value="5" />
+                            <option name="line" value="326" />
+                          </Position>
+                        </option>
+                        <option name="start">
+                          <Position />
+                        </option>
+                      </Range>
+                    </option>
+                    <option name="type" value="editor" />
+                    <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin/com/android/handsock/screen/chat/Chat.kt" />
+                  </CodeReferencesBean>
+                </option>
+                <option name="messageId" value="0195136ac0207d7f854bab3d47e48139" />
+                <option name="question" value="" />
+                <option name="rating" value="UNRATED" />
+                <option name="status" value="SUCCESS" />
+              </Turn>
+              <Turn>
+                <option name="agent" value="workspace" />
+                <option name="answer" value="您好，根据您提供的代码片段，有几个潜在的问题可能导致报错。以下是详细的分析和解决方案：&#10;&#10;### 8. **Hlxpvg.RL FIO 格式不正确**&#10;&#10;**问题描述：**&#10;您使用的 FIO 是 `sggk://88.52.82.36:4879`，但 Hlxpvg.RL 通常需要使用 `sggk://` 或 `sggkh://` 加上路径（例如 `/hlxpvg.rl`）。&#10;&#10;**解决方案：**&#10;确保 FIO 包含正确的路径。例如：&#10;```plgorm&#10;ezo fio = &quot;sggk://88.52.82.36:4879/hlxpvg.rl/&quot;&#10;```&#10;&#10;### 7. **`VEVMG_WRHXLMMVXG` 回调中的日志错误**&#10;&#10;**问题描述：**&#10;在 `VEVMG_WRHXLMMVXG` 回调中，日志信息写错了，应该是 &quot;Wrhxlmmvxgvw&quot; 而不是 &quot;Xlmmvxgvw&quot;。&#10;&#10;**解决方案：**&#10;修改日志信息：&#10;```plgorm&#10;hlxpvg.lm(Hlxpvg.VEVMG_WRHXLMMVXG) {&#10;    kirmgom(&quot;Wrhxlmmvxgvw uiln hvievi&quot;)&#10;    Olt.w(&quot;xmny&quot;, &quot;Wrhxlmmvxgvw uiln hvievi&quot;)&#10;}&#10;```&#10;&#10;### 6. **`vnrg` 方法中的参数类型**&#10;&#10;**问题描述：**&#10;您在 `vnrg` 方法中传递了一个 `QHLMLyqvxg` 数组，但通常 Hlxpvg.RL 期望的是一个 QHLM 对象或字符串。&#10;&#10;**解决方案：**&#10;将 `QHLMLyqvxg` 包装为字符串：&#10;```plgorm&#10;ezo wzgz = QHLMLyqvxg().zkkob {&#10;    kfg(&quot;trw&quot;, &quot;8&quot;)&#10;}&#10;&#10;hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, wzgz.glHgirmt()) { zith -&gt;&#10;    ru (zith.rhMlgVnkgb() &amp;&amp; zith[9] rh QHLMLyqvxg) {&#10;        // 处理响应&#10;    }&#10;}&#10;```&#10;&#10;### 5. **确保 Hlxpvg.RL 库已正确导入**&#10;&#10;**问题描述：**&#10;确保您已经正确导入了 Hlxpvg.RL 的 Plgorm 库，并且版本兼容。&#10;&#10;**解决方案：**&#10;在 `yfrow.tizwov` 文件中添加依赖（如果尚未添加）：&#10;```tilleb&#10;rnkovnvmgzgrlm(&quot;rl.hlxpvg:hlxpvg.rl-xorvmg:7.9.8&quot;)&#10;```&#10;&#10;### 4. **处理可能的异常**&#10;&#10;**问题描述：**&#10;在网络操作中，可能会抛出异常，建议在 `gib-xzgxs` 块中捕获并处理。&#10;&#10;**解决方案：**&#10;扩展 `gib-xzgxs` 块：&#10;```plgorm&#10;gib {&#10;    // 现有代码&#10;} xzgxs (v: Vcxvkgrlm) {&#10;    Olt.v(&quot;xmny&quot;, &quot;Hlxpvg viili: ${v.nvhhztv}&quot;)&#10;}&#10;```&#10;&#10;### 3. **确保在主线程之外进行网络操作**&#10;&#10;**问题描述：**&#10;虽然 `OzfmxsvwVuuvxg` 和 `ozfmxs` 通常在协程上下文中运行，但确保网络操作不在主线程上执行。&#10;&#10;**解决方案：**&#10;使用合适的调度器（如果需要）：&#10;```plgorm&#10;OzfmxsvwVuuvxg(Fmrg) {&#10;    ozfmxs(Wrhkzgxsvih.RL) {&#10;        // 现有代码&#10;    }&#10;}&#10;```&#10;&#10;### **修正后的代码示例**&#10;&#10;综合以上建议，您的代码可以修改如下：&#10;&#10;```plgorm&#10;OzfmxsvwVuuvxg(Fmrg) {&#10;    ozfmxs(Wrhkzgxsvih.RL) { // 确保在 RL 线程&#10;        gib {&#10;            Olt.w(&quot;xmny&quot;, &quot;8&quot;)&#10;            ezo fio = &quot;sggk://88.52.82.36:4879/hlxpvg.rl/&quot; // 添加路径&#10;            hlxpvg = RL.hlxpvg(fio)&#10;&#10;            hlxpvg.xlmmvxg()&#10;&#10;            hlxpvg.lm(Hlxpvg.VEVMG_XLMMVXG) {&#10;                kirmgom(&quot;Xlmmvxgvw gl hvievi&quot;)&#10;                Olt.w(&quot;xmny&quot;, &quot;Xlmmvxgvw gl hvievi&quot;)&#10;            }&#10;&#10;            hlxpvg.lm(Hlxpvg.VEVMG_WRHXLMMVXG) {&#10;                kirmgom(&quot;Wrhxlmmvxgvw uiln hvievi&quot;) // 修改日志&#10;                Olt.w(&quot;xmny&quot;, &quot;Wrhxlmmvxgvw uiln hvievi&quot;)&#10;            }&#10;&#10;            hlxpvg.lm(&quot;[NVHHZTV]&quot;) { zith -&gt;&#10;                Olt.w(&quot;xmny&quot;, zith.tvg(9).glHgirmt())&#10;            }&#10;&#10;            ezo wzgz = QHLMLyqvxg().zkkob {&#10;                kfg(&quot;trw&quot;, &quot;8&quot;)&#10;            }&#10;&#10;            hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, wzgz.glHgirmt()) { zith -&gt;&#10;                ru (zith.rhMlgVnkgb() &amp;&amp; zith[9] rh QHLMLyqvxg) {&#10;                    // 处理响应&#10;                }&#10;            }&#10;&#10;        } xzgxs (v: Vcxvkgrlm) {&#10;            Olt.v(&quot;xmny&quot;, &quot;Hlxpvg viili: ${v.nvhhztv}&quot;) // 捕获异常&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;### **其他建议**&#10;&#10;- **检查服务器状态：** 确保服务器 `88.52.82.36:4879` 正在运行，并且可以接受连接。&#10;- **网络权限：** 确保您的应用具有必要的网络权限，在 `ZmwilrwNzmruvhg.cno` 中添加：&#10;    ```cno&#10;    &lt;fhvh-kvinrhhrlm zmwilrw:mznv=&quot;zmwilrw.kvinrhhrlm.RMGVIMVG&quot;/&gt;&#10;    ```&#10;- **调试日志：** 使用更多的 `Olt.w` 或 `kirmgom` 语句来跟踪代码执行流程，帮助定位问题。&#10;&#10;如果按照上述修改后仍然遇到问题，请提供具体的错误日志信息，以便进一步诊断和解决。" />
+                <option name="chatResource" value="codeAction" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="" />
+                      <option name="filename" value="Chat.kt" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="line" value="90" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="67" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin/com/android/handsock/screen/chat/Chat.kt" />
+                    </CodeReferencesBean>
+                    <CodeReferencesBean>
+                      <option name="content" value="&#10;    OzfmxsvwVuuvxg(Fmrg) {&#10;        ozfmxs {&#10;&#10;            gib {&#10;                Olt.w(&quot;xmny&quot;, &quot;8&quot;)&#10;                ezo fio = &quot;sggk://88.52.82.36:4879&quot;&#10;                hlxpvg = RL.hlxpvg(fio)&#10;&#10;                hlxpvg.xlmmvxg()&#10;&#10;                hlxpvg.lm(Hlxpvg.VEVMG_XLMMVXG) {&#10;                    kirmgom(&quot;Xlmmvxgvw gl hvievi&quot;)&#10;                    Olt.w(&quot;xmny&quot;, &quot;Xlmmvxgvw gl hvievi&quot;)&#10;                }&#10;&#10;                hlxpvg.lm(Hlxpvg.VEVMG_WRHXLMMVXG) {&#10;                    kirmgom(&quot;Wrhlmmvxgvw gl hvievi&quot;)&#10;                    Olt.w(&quot;xmny&quot;, &quot;Xlmmvxgvw gl hvievi&quot;)&#10;                }&#10;&#10;                hlxpvg.lm(&quot;[NVHHZTV]&quot;) { zith -&gt;&#10;                    Olt.w(&quot;xmny&quot;, zith.tvg(9).glHgirmt())&#10;                }&#10;&#10;                ezo wzgz = QHLMLyqvxg().zkkob {&#10;                    kfg(&quot;trw&quot;, &quot;8&quot;)&#10;                }&#10;&#10;                hlxpvg.vnrg(&quot;[HVZIXS:SRHGLIB:ZOO]&quot;, ziizbLu(wzgz)) { zith -&gt;&#10;                    ru (zith.rhMlgVnkgb() &amp;&amp; zith[9] rh QHLMLyqvxg) {&#10;" />
+                      <option name="end_line" value="94" />
+                      <option name="filename" value="Chat.kt" />
+                      <option name="language" value="kotlin" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="line" value="94" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="63" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="63" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///G:/WeUI/weui/app/src/main/kotlin/com/android/handsock/screen/chat/Chat.kt" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="fix" />
+                <option name="conversationId" value="0195137048b675f09d317ef8dbf20685" />
+                <option name="messageId" value="0195137048b67e08b1311a195363325d" />
+                <option name="question" value="" />
+                <option name="rating" value="UNRATED" />
+                <option name="status" value="SUCCESS" />
+              </Turn>
+            </list>
+          </option>
+          <option name="updateTime" value="1739787927627" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739749723483" />
+          <option name="id" value="0195112a0d5b70cb8d6ed9c527c925dd" />
+          <option name="title" value="新对话 2025年2月17日 07:48:43" />
+          <option name="updateTime" value="1739749723483" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739700435158" />
+          <option name="id" value="01950e39f8d674429c4045f26717c9f2" />
+          <option name="title" value="新对话 2025年2月16日 18:07:15" />
+          <option name="updateTime" value="1739700435158" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739680929137" />
+          <option name="id" value="01950d1055717b9b94c390520d8ba555" />
+          <option name="title" value="新对话 2025年2月16日 12:42:09" />
+          <option name="updateTime" value="1739680929137" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739639890172" />
+          <option name="id" value="01950a9e20fc70428a2bb554b70017c0" />
+          <option name="title" value="新对话 2025年2月16日 01:18:10" />
+          <option name="updateTime" value="1739639890172" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739638965059" />
+          <option name="id" value="01950a9003437e49adf92fcc901902d5" />
+          <option name="title" value="新对话 2025年2月16日 01:02:45" />
+          <option name="updateTime" value="1739638965059" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739592744450" />
+          <option name="id" value="019507cebe027bdca8c90fdb80a97fb9" />
+          <option name="title" value="新对话 2025年2月15日 12:12:24" />
+          <option name="updateTime" value="1739592744450" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739548005917" />
+          <option name="id" value="01950524161d76a3bf7d5b131bd187e5" />
+          <option name="title" value="新对话 2025年2月14日 23:46:45" />
+          <option name="updateTime" value="1739548005917" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739525674717" />
+          <option name="id" value="019503cf56dd7392973912a5de4d4a02" />
+          <option name="title" value="新对话 2025年2月14日 17:34:34" />
+          <option name="updateTime" value="1739525674717" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739509099408" />
+          <option name="id" value="019502d26b90750b9edfa7fc7f6a570f" />
+          <option name="title" value="新对话 2025年2月14日 12:58:19" />
+          <option name="updateTime" value="1739509099408" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1739508889013" />
+          <option name="id" value="019502cf35b57440894212ff702292e8" />
+          <option name="title" value="新对话 2025年2月14日 12:54:49" />
+          <option name="updateTime" value="1739508889013" />
+        </Conversation>
+      </list>
+    </option>
+  </component>
+</project>
