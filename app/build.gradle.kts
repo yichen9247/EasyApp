@@ -8,8 +8,8 @@ android {
     defaultConfig {
         applicationId = "com.android.easyApp"
         targetSdk = 34
-        versionCode = 2504151
-        versionName = "2.3.0-B24"
+        versionCode = 25050801
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {

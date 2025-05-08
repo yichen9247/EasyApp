@@ -45,4 +45,4 @@ const val tencentAppId: String = "0"
 
 以上配置中的 `0` 均替换为你的appid
 
-本模板使用了 [WeUI](hhttps://gitee.com/chengdongqing/weui) 作为主要的UI组件库，暂不提供开发文档，如需使用本模板请翻阅项目的源代码，我们在里面提供了注释以方便阅读。
+本模板使用了 [WeUI](https://gitee.com/chengdongqing/weui) 作为主要的UI组件库，暂不提供开发文档，如需使用本模板请翻阅项目的源代码，我们在里面提供了注释以方便阅读。
